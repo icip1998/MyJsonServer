@@ -1,8 +1,10 @@
-[
-    {
-        "id": 0,
-        "product_name": "Nothing",
-        "category": "none",
-        "image": "/image/one.png"
-    }
-]
+{
+    "dataPeserta": [
+        {
+            "id": 0,
+            "product_name": "Nothing",
+            "category": "none",
+            "image": "/image/one.png"
+        }
+    ]
+}
