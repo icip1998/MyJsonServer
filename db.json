@@ -5,6 +5,12 @@
             "product_name": "Nothing",
             "category": "none",
             "image": "/image/one.png"
+        },
+        {
+            "id": 1,
+            "product_name": "ABCD",
+            "category": "A",
+            "image": "/image/one.png"
         }
     ]
 }
