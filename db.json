@@ -11,6 +11,12 @@
             "product_name": "ABCD",
             "category": "A",
             "image": "/image/one.png"
+        },
+        {
+            "id": 2,
+            "product_name": "B",
+            "category": "A",
+            "image": "/image/one.png"
         }
     ]
 }
